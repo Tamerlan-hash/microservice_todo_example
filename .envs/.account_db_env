@@ -1,0 +1,4 @@
+POSTGRES_HOST=account_db
+POSTGRES_USER=todo_user
+POSTGRES_PASSWORD=Or&Rlpt8
+POSTGRES_DB=todo_account
