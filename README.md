@@ -1,4 +1,4 @@
-#Organization Task Project
+#Organization Task Project = Test task of Europharma
 
 Account API - http://localhost:2000/api/v1/accounts/docs#/
 Middleware API - http://localhost:1000/api/v1/middleware/docs#/
